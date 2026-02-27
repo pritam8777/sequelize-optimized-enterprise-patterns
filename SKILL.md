@@ -1,18 +1,6 @@
----
-name: sequelize-optimized-enterprise-patterns
-description: A brief description of what this skill does
----
+# Sequelize Enterprise Optimization
+Description: Sequelize performance optimization rules.
 
-# sequelize-optimized-enterprise-patterns
-
-Instructions for the agent to follow when this skill is activated.
-
-## When to use
-
-Describe when this skill should be used.
-
-## Instructions
-
-1. First step
-2. Second step
-3. Additional steps as needed
+## Rules
+- Always specify attributes
+- Avoid N+1 queries
