@@ -1,7 +1,6 @@
 ---
 name: sequelize-optimized-enterprise-patterns
-description: Opinionated Sequelize query and performance optimization rules for
-enterprise Node.js backends using encrypted fields and heavy associations.
+description: A brief description of what this skill does
 ---
 
 # sequelize-optimized-enterprise-patterns
