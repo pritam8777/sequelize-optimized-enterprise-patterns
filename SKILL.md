@@ -1,20 +1,18 @@
-# Sequelize Enterprise Optimization
+---
+name: sequelize-optimized-enterprise-patterns
+description: A brief description of what this skill does
+---
 
-Description: Opinionated Sequelize performance and query optimization rules
-for enterprise Node.js backends using encrypted fields, heavy associations,
-and reporting-style queries.
+# sequelize-optimized-enterprise-patterns
 
-## Rules
+Instructions for the agent to follow when this skill is activated.
 
-### MUST
-- Always specify `attributes` in queries
-- Use pagination for list APIs
-- Avoid N+1 queries
-- Use DB-level aggregation instead of JS loops
-- Avoid decrypting fields inside loops
+## When to use
 
-### MUST NOT
-- Fetch encrypted fields unless required
-- Use `findAll()` without limit/offset
-- Include associations without attributes
-- Run awaits inside loops
+Describe when this skill should be used.
+
+## Instructions
+
+1. First step
+2. Second step
+3. Additional steps as needed
